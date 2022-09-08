@@ -1,3 +1,14 @@
+This project present a Gas and humidity monitoring system. An Api call is made to Thingspeak API .
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
